@@ -10,3 +10,7 @@
 * __week-2:__
 
      creating markdown file
+     
+* __week-3:__
+
+     [intorduction to python numbers and strings]
