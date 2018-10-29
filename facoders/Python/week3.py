@@ -1,1 +1,2 @@
-input("Enter your name :")'hello '+'fadia'
+('Hello '+input ('Enter your name :')
+ 
