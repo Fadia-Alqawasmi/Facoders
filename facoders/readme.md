@@ -13,4 +13,4 @@
      
 * __week-3:__
 
-     [intorduction to python numbers and strings]
+     [intorduction to python numbers and strings](https://github.com/Fadia-Alqawasmi/Facoders/blob/master/facoders/Python/week3.py)
